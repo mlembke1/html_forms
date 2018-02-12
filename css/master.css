@@ -1,0 +1,25 @@
+body {
+  font-family: 'Lato', sans-serif;
+  text-align: center
+}
+
+header {
+  padding: 2em 0;
+  margin-bottom: 3em;
+}
+
+#wrapper{
+  max-width: 50%;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin: auto;
+}
+
+form input {
+  margin-bottom: 2em;
+}
+
+form label {
+  display: inline-block;
+  margin-bottom: .5em;
+}
